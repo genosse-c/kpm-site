@@ -1,0 +1,160 @@
+@use "sass:math";
+@use "../0-settings/variables";
+
+$columns: 12;
+$container-base-width: 1200px;
+$container-offset: variables.$base-spacing-unit;
+
+$desktop: 992px;
+$tablet:  768px;
+$mobile:  576px;
+
+$mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
+
+.container {
+  max-width: $container-base-width;
+  padding-left: $container-offset;
+  padding-right: $container-offset;
+  margin: 0 auto;
+}
+
+.container-full {
+  max-width: 100%;
+  padding-left: $container-offset;
+  padding-right: $container-offset;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 1 auto;
+  flex-direction: row;
+  box-sizing: border-box;
+  margin-left: (variables.$base-spacing-unit * -1);
+  margin-right: (variables.$base-spacing-unit * -1);
+}
+
+.col {
+  padding-left: variables.$base-spacing-unit;
+  padding-right: variables.$base-spacing-unit;
+}
+
+[class^="col-"] {
+  flex: auto;
+}
+
+
+@for $i from 0 through $columns {
+  $col-width: math.div($i, $columns);
+
+  .col-#{$i} {
+    width: math.percentage($col-width);
+  }
+}
+
+@for $i from 0 through $columns {
+	$col-width: math.div($i, $columns);
+
+  .push-#{$i} {
+    margin-left: math.percentage($col-width);
+  }
+}
+
+@for $i from 0 through $columns {
+	$col-width: math.div($i, $columns);
+
+  .pull-#{$i} {
+    margin-right: math.percentage($col-width);
+  }
+}
+
+
+@each $key, $val in $mq {
+
+  // DESKTOP
+  @media(max-width: $desktop) {
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .col-d-#{$i} {
+        width: math.percentage($col-width);
+      }
+    }
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .push-d-#{$i} {
+        margin-left: math.percentage($col-width);
+      }
+    }
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .pull-d-#{$i} {
+        margin-right: math.percentage($col-width);
+      }
+    }
+  }
+
+
+  // TABLET
+  @media(max-width: $tablet) {
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .col-t-#{$i} {
+        width: math.percentage($col-width);
+      }
+    }
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .push-t-#{$i} {
+        margin-left: math.percentage($col-width);
+      }
+    }
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .pull-t-#{$i} {
+        margin-right: math.percentage($col-width);
+      }
+    }
+  }
+
+  // MOBILE
+  @media(max-width: $mobile) {
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .col-m-#{$i} {
+        width: math.percentage($col-width);
+      }
+    }
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .push-m-#{$i} {
+        margin-left: math.percentage($col-width);
+      }
+    }
+
+    @for $i from 0 through $columns {
+    	$col-width: math.div($i, $columns);
+
+      .pull-m-#{$i} {
+        margin-right: math.percentage($col-width);
+      }
+    }
+  }
+
+}
