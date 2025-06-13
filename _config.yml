@@ -15,7 +15,6 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num"
 
-
 # Pages Path
 defaults:
   - scope:
@@ -25,7 +24,6 @@ defaults:
 
 include:
   - _pages
-
 
 # Tags
 tag_page_dir:         tag
