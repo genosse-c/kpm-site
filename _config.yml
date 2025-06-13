@@ -36,7 +36,6 @@ sass:
 
 exclude:
   - CHANGELOG.md
-  - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
