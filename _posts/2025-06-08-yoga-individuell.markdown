@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Individuell "
-date:   2018-05-29 18:05:55 +0300
+date:   2025-06-08 18:05:55 +0300
 image:  m-fuesse.jpg
 tags:   Yoga
 ---
