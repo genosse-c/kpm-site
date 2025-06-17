@@ -34,3 +34,12 @@ sass:
   sass_dir: _sass
   style: compressed
 
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/

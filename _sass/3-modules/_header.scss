@@ -87,6 +87,19 @@
           color: variables.$black;
         }
       }
+
+      .nav__list{
+      	display: none;
+      	background-color: variables.$white;
+      }
+      &:hover .nav__list{
+      	position: absolute;
+      	display: block;
+      	.nav__item{
+      	  display: block;
+      	  width: auto;
+      	}
+      }
     }
   }
 
@@ -123,6 +136,10 @@
     .nav__list {
       .nav__item {
         display: block;
+      }
+      .nav__list {
+        padding-left: 0.5em;
+        white-space: wrap;
       }
     }
   }
