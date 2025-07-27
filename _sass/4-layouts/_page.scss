@@ -9,6 +9,7 @@
     font-size: 57px;
     line-height: 70px;
     margin: 0;
+    color: variables.$link-color;
   }
 
   @media only screen and (max-width: grid.$mobile) {

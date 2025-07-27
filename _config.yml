@@ -25,6 +25,14 @@ defaults:
 include:
   - _pages
 
+collections:
+  menu:
+    order:
+      - hello-world.md
+      - introduction.md
+      - basic-concepts.md
+      - advanced-concepts.md
+
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
