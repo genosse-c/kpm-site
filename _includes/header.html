@@ -24,12 +24,13 @@
             <div class="nav__title">Menu</div>
 
             <ul class="nav__list list-reset">
-              {% for page in site.pages | sort:"order" %}
+              {% assign sorted_pages = site.pages | sort:"order"%}
+              {% for page in sorted_pages %}
                 {% unless page.exclude_from_menu %}
                   {% if page.title or page.menu_title %}
                     {% assign title = page.menu_title %}
                     <li class="nav__item">
-                      <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link" title="{{page.title}}">{{ title }}</a>
+                      <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link" data-order="{{page.order}}" title="{{page.title}}">{{ title }}</a>
                       {% if page.include_post_menu %}
                       <ul class="nav__list list-reset">
                         {% for post in site.posts %}

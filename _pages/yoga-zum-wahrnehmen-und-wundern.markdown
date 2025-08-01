@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Zum Wahrnehmen und Wundern "
-date:   2025-06-13 18:05:55 +0300
+layout: page
+title:  "Yoga zum Wahrnehmen und Wundern "
 image:  m-kopfstand-02.jpg
 tags:   Yoga
+menu_title: Willkommen
+include_post_menu: true
+order: 1
 ---
 
 Yoga ist eine sehr alte Praxis und Philosophie - tief verwurzelt dort, wo heute die Länder Indien, Pakistan, Tibet, Nepal, Sri Lanka u.a. sind. 

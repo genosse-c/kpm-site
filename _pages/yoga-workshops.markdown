@@ -3,7 +3,7 @@ layout: page
 title:  "Yoga Workshops"
 image:  m-unterer-ruecken.jpg
 tags:   Yoga
-order: 4
+order: 5
 menu_title: Workshops
 ---
 **2. und 3. August** jeweils von 10.00 h bis 13.00 h  

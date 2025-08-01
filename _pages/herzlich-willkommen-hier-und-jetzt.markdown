@@ -3,9 +3,9 @@ layout: page
 title:  "Herzlich Willkommen hier und jetzt!"
 image:  m-unterer-ruecken.jpg
 tags:   Willkommen
-order: 1
+order: 8
 menu_title: Willkommen
-include_post_menu: true
+exclude_from_menu: true
 ---
 Mein Name ist Marie.  
 Seit 2007 unterrichte ich kontinuierlich Yoga-Kurse für verschiedene Zielgruppen:
