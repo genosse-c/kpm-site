@@ -1,4 +1,4 @@
-baseurl: "/kpm-site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yogakreuzberg.net" # the base hostname & protocol for your site, e.g. http://example.com
 title: "Yoga Kreuzberg - Marie Weil"
 
