@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Philosophie"
+title:  "Yoga Philosophie"
 date:   2025-06-10 18:05:55 +0300
 image:  m-kopfstand.jpg
 tags:   Yoga

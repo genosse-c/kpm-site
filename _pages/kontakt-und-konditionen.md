@@ -3,7 +3,7 @@ layout: page
 title:  "Kontakt und Konditonen"
 image:  m-kopfstand-02.jpg
 tags:   Kontakt
-order: 4
+order: 2
 menu_title: Kontakt
 ---
 Wenn du eine **Einzel-Stunde** mit mir vereinbaren möchtest, schreib mir gerne:
@@ -20,3 +20,5 @@ Bei Interesse melde dich bitte dort an: [Raupe und Schmettering](https://www.rau
 gebe ich einen **Workshop** im GraefeKiezYoga (Grimmstraße 20)
 Der Atem in seiner Verbundenheit mit dem Körper und Geist steht im Mittelpunkt.
 Kosten: 90,00 bis 180,00 (nach deiner Selbsteinschätzung)
+
+**Erreichbar** bin ich unter <a href="mailto:{{ site.data.settings.email }}">{{site.data.settings.email}}></a>

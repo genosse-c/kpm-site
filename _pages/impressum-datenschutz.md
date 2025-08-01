@@ -3,6 +3,7 @@ layout: page
 title:  "Impressum und Datenschutzerklärung"
 tags:   Kontakt
 exclude_from_menu: true
+order: 9
 ---
 # **Impressum**
 

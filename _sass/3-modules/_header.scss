@@ -72,13 +72,15 @@
   .nav__list {
     white-space: nowrap;
     
-    .nav__item:has(.nav__list) > .nav__link:before{
-      content: "+";
-      width: 1em;
-      display: inline-block;
-    }
-    .nav__item:has(.nav__list):hover > .nav__link:before{
-      content: "-";
+    @media only screen and (min-width: grid.$desktop){
+      .nav__item:has(.nav__list) > .nav__link:before{
+        content: "+";
+        width: 1em;
+        display: inline-block;
+      }
+      .nav__item:has(.nav__list):hover > .nav__link:before{
+        content: "-";
+      }
     }
 
     .nav__item {
@@ -112,6 +114,12 @@
       	.nav__item{
       	  display: block;
       	  width: auto;
+      	}
+      }
+      @media only screen and (max-width: grid.$desktop){
+      	&:hover .nav__list, .nav__list{
+      	  position: revert;
+      	  display: block;
       	}
       }
     }
