@@ -11,7 +11,7 @@ order: 1
 Yoga ist eine sehr alte Praxis und Philosophie - tief verwurzelt dort, wo heute die Länder Indien, Pakistan, Tibet, Nepal, Sri Lanka u.a. sind. 
 Yoga wurde und wird auf viele verschiedene Arten praktiziert.
 
-Ich übe seit dem Jahr 2000 Yoga. Von 2004 bis 2005 habe ich im Gesundheitszentrum Sonne und Mond in Berlin eine Yogalehrausbildung BDY/EYU gemacht. 
+Ich übe seit dem Jahr 2000 Yoga. Von 2004 bis 2009 habe ich im Gesundheitszentrum Sonne und Mond in Berlin eine Yogalehrausbildung BDY/EYU gemacht. 
 Seitdem lerne ich bei verschiedenen Lehrer:innen weiter. Von 2010 bis 2014 bei Dr. Shrikrishna, seit 2020 bei R. Sriram, 
 aktuell bei Varun | Varun’s Worklab und von 2010 bis 2023 bei Svenja Becker, Sandra Sabatini und Diane Long (nach Vanda Scaravelli).
 

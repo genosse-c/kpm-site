@@ -18,9 +18,5 @@ von Frieden können entstehen.
 Im Yogasutra wird dieser Prozess im achtgliedrigen Weg beschrieben. Asana 
 beschreibt die körperliche Praxis, Pranayama die Übung mit dem Atem.
 
-Prathyahara steht für die Übung, Sinnes-Eindrücke wahrzunehmen, ohne mich aus 
-der Ruhe bringen zu lassen. Dharana ist konzentriertes Ausgerichtet-Sein. 
-Dhyana selbst kann ich nicht üben. Es beschreibt das Eins-Werden mit dem, auf 
-das ich mich ausrichte - für einen kurzen oder längeren Moment. Es ist ein 
-Schritt, der von Zeit zu Zeit geschehen kann. Praxis hilft.
+Und schließlich Samadhi… da schreiben andere schon genug drüber : ).
 

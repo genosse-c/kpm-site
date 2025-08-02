@@ -10,8 +10,8 @@ order: 9
 **Marie Johanna Weil**  
 **Katzbachstr. 24**  
 **10965 Berlin**  
-[**Kritische Praxis Marie**](https://kpm-weil.de)
-**kontakt@kpm-weil.de**
+[**Yoga Kreuzberg**]({{site.data.settings.website}})  
+<a href="mailto:{{ site.data.settings.email }}">{{site.data.settings.email}}</a>
 
 # **Disclaimer \- rechtliche Hinweise**
 
@@ -143,11 +143,11 @@ Wir nutzen externe Hosting-Leistungen für den Betrieb unserer Webseite. Wir
 bezwecken mit dem Einsatz externer Hosting-Leistungen eine effiziente und sichere
 Zurverfügungstellung unseres Webangebots. Dabei werden sämtliche Daten verarbeitet,
 die für den Betrieb und die Nutzung unserer Website erforderlich sind. Um welche
-Daten es sich handelt, können Sie unter Punkt 5a nachlesen (Zugriffsdaten). Die
-Erfassung der Daten zur Bereitstellung und Nutzung der Website und die Verarbeitung
-der Daten über einen externen Hosting-Dienstleister ist für den Betrieb der
-Internetseite zwingend erforderlich. Rechtsgrundlage für die Verarbeitung ist
-Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+Daten es sich handelt, können Sie unter *Welche Daten werden erfasst und wie?* 
+nachlesen (Zugriffsdaten). Die Erfassung der Daten zur Bereitstellung und 
+Nutzung der Website und die Verarbeitung der Daten über einen externen 
+Hosting-Dienstleister ist für den Betrieb der Internetseite zwingend 
+erforderlich. Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO.
 
 Für das Hosting unserer Webseite verwenden wir momentan die Dienste von
 pages.github.com (GitHub, Inc., 88 Colin P Kelly Jr St San Francisco, CA 94107

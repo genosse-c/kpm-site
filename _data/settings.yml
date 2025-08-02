@@ -8,9 +8,9 @@ description: Yoga Kreuzberg ist the Internetpräsenz von Marie Johanna Weil
 #-------------------------------
 # Author Settings
 author:
-  name: Marie Johanna Weil
+  name: Marie
   image: kpm-header.svg
-  say-hello: Yoga <strong>Marie</strong>, weil...
+  say-hello: <strong>Yoga</strong> Marie, weil...
   bio: Yoga, Kunsttherapie, praktische Kritik.
 
 
