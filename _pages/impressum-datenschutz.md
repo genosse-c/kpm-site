@@ -7,7 +7,7 @@ order: 9
 ---
 # **Impressum**
 
-**Marie Johanna Weil**  
+**Marie Greffrath**  
 **Katzbachstr. 24**  
 **10965 Berlin**  
 [**Yoga Kreuzberg**]({{site.data.settings.website}})  
