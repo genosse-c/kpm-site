@@ -24,7 +24,7 @@
             <div class="nav__title">Menu</div>
 
             <ul class="nav__list list-reset">
-              {% assign sorted_pages = site.pages | sort:"order"%}
+              {% assign sorted_pages = site.pages | sort:"order" %}
               {% for page in sorted_pages %}
                 {% unless page.exclude_from_menu %}
                   {% if page.title or page.menu_title %}

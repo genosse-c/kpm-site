@@ -3,7 +3,7 @@ layout: page
 title:  "Yoga Kurse"
 image:  m-kniee.jpg
 tags:   Yoga
-order: 4
+order: 5
 menu_title: Kurse
 ---
 Yoga vermittelt Erfahrungswissen. Es geht darum, etwas selbst zu erleben. 
