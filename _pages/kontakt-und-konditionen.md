@@ -13,10 +13,16 @@ Wenn du eine **Einzel-Stunde** mit mir vereinbaren möchtest, schreib mir gerne:
 80,00 und 120,00 Euro.  
 Menschen mit wenig Geld unterstütze ich gerne nach Absprache.
 
-Offene **wöchentliche Kurse** biete ich aktuell im Frauen-Verein 
-**Raupe und Schmetterling** in der Pariser Straße an (Montag 16.45 h und 
-18.30 h).  
-Bei Interesse melde dich bitte dort an: [Raupe und Schmettering](https://www.raupeundschmetterling.de/home).
+Offene **wöchentliche Kurse**:
+
+* **Montag** im Frauen-Verein [Raupe und Schmettering](https://www.raupeundschmetterling.de/home)
+  in der Pariser Straße an (Montag 16.45 h und 18.30 h).  
+  Bei Interesse melde dich bitte dort an: [Raupe und Schmettering](https://www.raupeundschmetterling.de/home).
+  * *16:45 h*
+  * *18:30 h* 
+* **Donnerstag** im [Graefekiezyoga](https://www.graefekiezyoga.de/), Grimmstraße 19
+  * *8:30 h - 9:45 h* (für alle)
+  * *10:00 h - 11:15 h* (für Schwangere)
 
 **Erreichbar** bin ich unter <a href="mailto:{{ site.data.settings.email }}">{{site.data.settings.email}}</a>
 
