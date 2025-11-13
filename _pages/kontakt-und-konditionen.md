@@ -16,7 +16,7 @@ Menschen mit wenig Geld unterstütze ich gerne nach Absprache.
 Offene **wöchentliche Kurse**:
 
 * **Montag** im Frauen-Verein [Raupe und Schmettering](https://www.raupeundschmetterling.de/home)
-  in der Pariser Straße an (Montag 16.45 h und 18.30 h).  
+  in der Pariser Straße an.  
   Bei Interesse melde dich bitte dort an: [Raupe und Schmettering](https://www.raupeundschmetterling.de/home).
   * *16:45 h*
   * *18:30 h* 
