@@ -16,6 +16,14 @@ oder Flexibilität. Die Haltungen und Abläufe wähle und verändere ich
 entsprechend den Teilnehmenden. Auch die Arbeit mit dem Atem variiere ich nach Bedarf. 
 Gelegentlich machen wir Ausflüge in die Yoga-Philosophie.   
 
-Offene **wöchentliche Kurse** biete ich aktuell im Frauen-Verein Raupe und Schmetterling
-in der Pariser Straße an (Montag 16.45 h und 18.30 h). 
-Bei Interesse melde dich bitte dort an: [Raupe und Schmettering](https://www.raupeundschmetterling.de/home).
+Offene **wöchentliche Kurse**:
+
+* **Montag** im Frauen-Verein [Raupe und Schmettering](https://www.raupeundschmetterling.de/home)
+  in der Pariser Straße an (Montag 16.45 h und 18.30 h).  
+  Bei Interesse melde dich bitte dort an: [Raupe und Schmettering](https://www.raupeundschmetterling.de/home).
+  * *16:45 h*
+  * *18:30 h* 
+* **Donnerstag** im [Graefekiezyoga](https://www.graefekiezyoga.de/), Grimmstraße 19
+  * *8:30 h - 9:45 h* (für alle)
+  * *10:00 h - 11:15 h* (für Schwangere)
+
